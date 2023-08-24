@@ -1,0 +1,4 @@
+﻿  4_najliczba.cpp
+G:\PP\Zadania przygotowujace do kolokwium koncowego\4\4_najliczba\4_najliczba\4_najliczba.cpp(16,22): warning C4838: konwersja z „double” do „int” wymaga konwersji zawężającej
+G:\PP\Zadania przygotowujace do kolokwium koncowego\4\4_najliczba\4_najliczba\4_najliczba.cpp(16,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  4_najliczba.vcxproj -> G:\PP\Zadania przygotowujace do kolokwium koncowego\4\4_najliczba\Debug\4_najliczba.exe

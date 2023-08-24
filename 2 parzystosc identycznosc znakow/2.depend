@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603284295 source:g:\p\2\main.cpp
+	<iostream>
+	<climits>
+
+1603280909 source:g:\pp\2\main.cpp
+	<iostream>
+	<climits>
+

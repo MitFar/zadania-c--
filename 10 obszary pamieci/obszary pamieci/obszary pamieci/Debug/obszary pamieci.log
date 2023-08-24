@@ -1,0 +1,3 @@
+﻿  obszary pamieci.cpp
+G:\PP\10\obszary pamieci\obszary pamieci\obszary pamieci.cpp(16,19): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+G:\PP\10\obszary pamieci\obszary pamieci\obszary pamieci.cpp(7): error C4716: "funkcja": musi zwracać wartość

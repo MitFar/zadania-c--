@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605526859 source:g:\pp\5\kalkulator\funkcje.cpp
+
+1605526810 source:g:\pp\5\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	"funkcje.cpp"
+
+1605526960 g:\pp\5\kalkulator\funkcje.cpp
+	<iostream>
+

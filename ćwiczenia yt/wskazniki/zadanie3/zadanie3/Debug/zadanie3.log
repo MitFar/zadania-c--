@@ -1,0 +1,3 @@
+﻿  zadanie3.cpp
+G:\PP\ćwiczenia yt\wskazniki\zadanie3\zadanie3\zadanie3.cpp(24,16): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  zadanie3.vcxproj -> G:\PP\ćwiczenia yt\wskazniki\zadanie3\Debug\zadanie3.exe

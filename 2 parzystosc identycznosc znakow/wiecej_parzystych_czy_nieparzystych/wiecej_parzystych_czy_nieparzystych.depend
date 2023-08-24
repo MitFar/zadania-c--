@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603304255 source:g:\p\wiecej_parzystych_czy_nieparzystych\main.cpp
+	<iostream>
+	<cstdlib>
+

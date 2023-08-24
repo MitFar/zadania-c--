@@ -1,0 +1,3 @@
+﻿  ciagfibo.cpp
+G:\PP\ćwiczenia yt\fibonaczi petle glownie\ciagfibo\ciagfibo\ciagfibo.cpp(18,9): warning C4101: "prop": lokalna zmienna, do której nie istnieje odwołanie
+  ciagfibo.vcxproj -> G:\PP\ćwiczenia yt\fibonaczi petle glownie\ciagfibo\Debug\ciagfibo.exe
